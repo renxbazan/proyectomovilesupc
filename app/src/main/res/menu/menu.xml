@@ -16,6 +16,10 @@
         <menu>
             <item android:id="@+id/ver_visitas"
                 android:title="Ver visitas Programadas" />
+            <item android:id="@+id/atender_visita"
+                android:title="Atender visita" />
+            <item android:id="@+id/trazar_ruta"
+                android:title="Trazar ruta" />
         </menu>
     </item>
     <item android:id="@+id/logout"

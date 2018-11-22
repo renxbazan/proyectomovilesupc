@@ -20,7 +20,7 @@ public class Login extends AppCompatActivity {
             public void onClick(View v) {
                 String usuario = ((EditText) findViewById(R.id.txtusuario)).getText().toString();
                 String password = ((EditText) findViewById(R.id.txtpassword)).getText().toString();
-                if (usuario.equals("mruiz")&& password.equals("123mrui45678"))
+                if (usuario.equals("mruiz")&& password.equals("12345678"))
                 {
                     Intent formprogramacion= new Intent(Login.this,Programacion.class);
                     startActivity(formprogramacion);
