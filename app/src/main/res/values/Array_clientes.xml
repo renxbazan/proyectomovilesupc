@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_clientes">
+        <item>Juarez Valverde, Jose</item>
+        <item>Velasquez Diaz, Marti</item>
+        <item>Rodriguez Benites, Luis</item>
+        <item>Suarez Diaz, Victor</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_sucursales">
+        <item>SJM</item>
+        <item>Callao</item>
+        <item>Villa Maria</item>
+        <item>Los Olivos</item>
+    </string-array>
+
+</resources>

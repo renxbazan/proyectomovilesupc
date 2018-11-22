@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_tipovisita">
+        <item>Cotización</item>
+        <item>Venta</item>
+        <item>Mantenimiento</item>
+    </string-array>
+
+
+</resources>

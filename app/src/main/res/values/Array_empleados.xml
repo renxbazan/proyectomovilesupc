@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_empleados">
+        <item>Peres Benites, Jose</item>
+        <item>Diaz Maldonado, Victor</item>
+        <item>Carcelen Basurco, Jose</item>
+        <item>Tavara Diaz, Liz</item>
+    </string-array>
+
+</resources>
